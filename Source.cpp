@@ -61,7 +61,8 @@ void Booking()
 
 	};
 	
-	string  region, rate;
+	string  region;
+	string rate;
 	cout << "\n\tSearching by region.\n";
 	cout << "\n\t[0] Continue this step: \n";
 	cout << "\t[1] Skip this step: \n";
