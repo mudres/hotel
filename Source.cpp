@@ -15,7 +15,7 @@ int main() {
 	cout << "\t**************************\n";
 	int a;
 	while (1) {
-		cout << "\t\tMain Menu\n";
+		cout << "\t\tMain Menu:\n";
 		cout << "\t[1]About Uzbekistan\n";
 		cout << "\t[2]Hotel Booking\n";
 		cout << "\t[3]Finding hotel\n";
